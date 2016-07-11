@@ -1,0 +1,12 @@
+img {
+  display: block;
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
+
+p {
+  align: center;
+  color: #FF33CC;
+  text-align: center;
+}

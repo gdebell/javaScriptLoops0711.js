@@ -1,0 +1,44 @@
+h1 {
+  color: #FF9900;
+}
+
+.local {
+  display: inline block;
+}
+
+p {
+  color: #9900FF;
+
+}
+input {
+  border-style: solid;
+  border-width: thin;
+  heigth: 10px;
+  width: 200px;
+  dipslay: inline block;
+}
+
+input[type="submit"] {
+  text-align: left;
+  background-color: #FF9900;
+  width: 120px;
+  border: 2px solid black;
+  padding: 2px;
+  box-shadow: 0 0 10px black;
+}
+
+#checked {
+  color: #9900FF;
+}
+
+ul {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  border-bottom: 1px solid black;
+}
